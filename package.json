@@ -1,0 +1,10 @@
+{
+    "name": "eslint-plugin-moment-to-moment-timezone",
+    "description": "A lint rule to replace moment imports with moment-timezone",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "peerDependencies": {
+        "eslint": ">=0.8.0"
+    }
+}
